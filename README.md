@@ -12,7 +12,7 @@ Data Science | Machine Learning | Computer Vision | Urban Analytics
 
 ## Recent Work
 **Realty Compass** - Real Estate Investment Analysis Platform
-- ML-based rent prediction model (R²=0.874)
+- ML-based rent prediction model 
 - Multi-source urban data integration and geospatial analysis
 - Tech: Python, scikit-learn, H3 indexing, Tableau
 
