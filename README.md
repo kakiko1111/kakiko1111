@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Kakiko
 
-<!--
-**kakiko1111/kakiko1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS in Information Systems @ Cornell Tech
 
-Here are some ideas to get you started:
+Data Science | Machine Learning | Computer Vision | Urban Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+**Understanding Human Perceptions of Street View Images**
+- Analyzing visual features of urban environments 
+- CNN-based computer vision for building valuation and urban perception
+- Tech: Python, PyTorch/TensorFlow, Computer Vision, Deep Learning
+
+## Recent Work
+**Realty Compass** - Real Estate Investment Analysis Platform
+- ML-based rent prediction model (R²=0.874)
+- Multi-source urban data integration and geospatial analysis
+- Tech: Python, scikit-learn, H3 indexing, Tableau
+
+## Skills
+Python • Deep Learning • Computer Vision • Machine Learning • Geospatial Analysis
